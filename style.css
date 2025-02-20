@@ -2709,9 +2709,11 @@ h1 span.animateTen6 {
      .bodyVideop3{
         left: 310px;
         width: 50px;
+        display: none;
      }
      .bodyVideop3 img{
         width: 40px;
+        display: none;
      }
      .review{
         overflow: hidden;
